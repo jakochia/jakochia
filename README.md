@@ -8,7 +8,7 @@
 - 🚀 Building practical projects that solve real-world problems and improve education through technology
 - 🤝 Open to collaborating on **Open Source Projects, Web Applications, Networking Solutions, and Educational Technology**
 - 📫 Reach me at **ombuyanewton@gmail.com**
-- 🌐 Portfolio: **https://asha-blue.vercel.app**
+- 🌐 Portfolio: **(https://newton-asha-portfolio.vercel.app/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy teaching technology, troubleshooting networks, and turning ideas into working solutions.**
 
